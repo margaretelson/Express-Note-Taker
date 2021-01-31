@@ -1,7 +1,9 @@
 var express = require("express");
 var path = require("path");
+var fs = require("fs");
 
-require("./routes/apiRoutes.js")(app)
+require("./routes/apiRoutes.js")(app);
+require("./routes/htmlRoutes.js")(app);
 
 const app = express();
 const PORT = process.env.PORT || 8080
