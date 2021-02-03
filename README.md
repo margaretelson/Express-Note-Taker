@@ -15,9 +15,8 @@
 The Express Note Taker is an application for users to write a note, save it to the database, and delete it when they desire. The application was created using HTML, CSS, Javascript, and Express. In the future, I think it would be interesting to implement luxom to have specific notes as reminders at a specific date and time.
 
 ## URL
-[Click here for a link to the live application!]()
+[Click here for a link to the live application!](https://salty-headland-62604.herokuapp.com/)
 
-![Screenshot of Deployed Website]()
 
 ## Installation
 npm i, npm i inquirer, npm i fs, npm i express, npm init
